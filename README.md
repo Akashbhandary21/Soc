@@ -32,3 +32,7 @@ play a vital role in hybrid and electric applications, since the importance of B
 energy efficiency and the battery’s life.
 # BLOCK_DIAGRAM
 ![Screenshot (3)](https://github.com/Akashbhandary21/Soc/assets/99230465/2326d792-cacb-4b63-a3e6-8643fea9b59f)
+# TABLE
+| 4MT20EC009 | AKASH |
+| --- | --- |
+| 4MT20EC025 | BRITESH KUMAR |
